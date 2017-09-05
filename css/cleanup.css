@@ -6,5 +6,5 @@
 #wall .parent #tag-4,
 div#wall div.parent #tag-5.slick,
 div#wall div.parent > div:last-child > div#tag-6 {
-  display: none;
+  display: none !important;
 }
